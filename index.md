@@ -46,10 +46,10 @@ python crowd_detect.py
 - Lightweight and easy to run on a laptop webcam
 
 ## Usage & Applications 💡
-For detailed usage examples, configuration options, and application ideas, see [USAGE.md](USAGE.md).
+For detailed usage examples, configuration options, and application ideas, see [USAGE.md](docs/USAGE.md).
 
 ## Contributing 🤝
-Contributions, bug reports, and improvements are welcome — please see [CONTRIBUTING.md](../CONTRIBUTING.md) for guidelines on how to contribute, submit issues, and open pull requests.
+Contributions, bug reports, and improvements are welcome — please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines on how to contribute, submit issues, and open pull requests.
 
 ## License 📄
-This project is covered under the terms described in [LICENSE.md](../LICENSE.md). Please review the license before using or contributing.
+This project is covered under the terms of the MIT License - making it free to copy, modify, and distribute. However, attribution to the original creator (me) is requested.
