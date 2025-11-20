@@ -2,6 +2,8 @@
 
 A lightweight crowd monitoring and cluster detection system that uses your laptop webcam to detect people in real time, overlay a heatmap, and identify clusters of nearby people using DBSCAN.
 
+<img src="https://github.com/rh3nium/Crowd-Monitoring-system-Heatmap/blob/main/Screenshot%20from%202025-10-12%2016-55-41.png?raw=true">
+
 ## Overview 🔎
 This project is a simple Python script that leverages OpenCV for real-time person detection and visualization, NumPy for data handling, and scikit-learn's DBSCAN for cluster detection. It's useful for demonstrations, research prototypes, and small-scale crowd analytics.
 
